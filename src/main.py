@@ -36,7 +36,6 @@ def extra_credit(fname = "quiz_grades.txt"):
         Student 17, ...
 
     '''
-    pass
 
 def main():
     create_base()
